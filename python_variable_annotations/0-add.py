@@ -3,12 +3,5 @@
 
 
 def add(a: float, b: float) -> float:
-    """
-    -----------
-    METHOD: add
-    -----------
-    Description:
-            Function that exclusively adds two floats
-            and returns the sum in float
-    """
+    """add two floats and return a float"""
     return a + b
